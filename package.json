@@ -1,0 +1,19 @@
+{
+  "name": "rockstar",
+  "version": "1.0.0",
+  "description": "Rockstar is a dynamically typed Turing-complete programming language.",
+  "main": "fibo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandar8/rockstar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandar8/rockstar/issues"
+  },
+  "homepage": "https://github.com/amandar8/rockstar#readme"
+}
