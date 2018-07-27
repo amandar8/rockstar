@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/amandar8/rockstar/issues"
   },
-  "homepage": "https://github.com/amandar8/rockstar#readme"
+  "homepage": "https://github.com/amandar8/rockstar#readme",
+  "dependencies": {}
 }
